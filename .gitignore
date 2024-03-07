@@ -1,0 +1,8 @@
+.idea
+submit_pt
+logs
+__pycache__
+*.zip
+*.tar
+*.hdf5
+*.ipynb
